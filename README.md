@@ -71,16 +71,16 @@ The following metrics were obtained from the final OpenROAD reports.
 ## Implementation Screenshots
 
 ### Floorplanning
-![Floorplan](gcd-rtl-to-gds-openroad/gcd_flooplan.png)
+![Floorplan](gcd_flooplan.png)
 
 ### Placement
-![Placement](gcd-rtl-to-gds-openroad/gcd_detailed_placement.png)
+![Placement](gcd_detailed_placement.png)
 
 ### Clock Tree Synthesis
-![Clock Tree Synthesis](gcd-rtl-to-gds-openroad/cts.png)
+![Clock Tree Synthesis](gcd_cts.png)
 
 ### Final Physical Layout
-![Final Layout](gcd-rtl-to-gds-openroad/gcd_final.png)
+![Final Layout](gcd_final.png)
 
 ## Important Output Files
 
